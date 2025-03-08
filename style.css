@@ -1,0 +1,24 @@
+body {
+  background-color: #c3f5ff
+}
+h4 {
+  text-align: center;
+  border: groove 5px #0047623d;
+  margin: 5px;
+  background-color: rgba(255, 255, 255, 0.44)
+}
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+pre {
+  text-align: center;
+  border: 10px groove #00739031;
+  margin: 75px;
+}
