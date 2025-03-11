@@ -27,10 +27,8 @@ p {
   text-align: center;
 }
 
-pre {
-  text-align: center;
-  border: 10px groove #00739031;
-  margin: 75px;
+#post{
+  text-align: center
 }
 
 .starfield {
