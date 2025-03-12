@@ -5,7 +5,7 @@ html {
 body {
   color: white;
   margin: 0;
-  overflow: hidden;
+  overflow: scroll;
   background-color: #111;
 }
 
